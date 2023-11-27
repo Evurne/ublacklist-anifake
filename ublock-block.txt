@@ -1,0 +1,3 @@
+# Prevents you from entering those sites
+
+/^https?:\/\/(?!gogoanime3\.net)((ww.+\.)?gogoanime[a-zA-Z1-99]?\.[a-zA-Z]+.+)$/^$document
