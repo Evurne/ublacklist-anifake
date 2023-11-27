@@ -6,4 +6,4 @@ gogoanime*.*^$document
 
 
 # Whitelist
-@@gogoanime3.net/*
+@@gogoanime3.net
