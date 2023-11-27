@@ -1,4 +1,4 @@
-# ublacklist Anifake
+# uBlacklist Anifake
 # https://github.com/Evurne/ublacklist-anifake
 # Updated at 11/27/2023
 
