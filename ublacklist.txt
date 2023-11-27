@@ -1,6 +1,8 @@
 # uBlacklist Anifake
 # https://github.com/Evurne/ublacklist-anifake
-# Updated at 11/27/2023
+# Updated at 11/28/2023
 
 # main
-/^https?:\/\/(?!gogoanime3\.net)((ww.+\.)?gogoanime[a-zA-Z1-99]?\.[a-zA-Z]+.+)$/
+/^https?:\/\/((ww.+\.)?gogoanime[a-zA-Z1-99]?\.[a-zA-Z]+.+)$/
+/^https?:\/\/((ww.+\.)?9anime[a-zA-Z1-99]?.*)$/
+/^https?:\/\/(?!aniwave\.(to|bz|ws))((ww.+\.)?aniwave[a-zA-Z1-99]?.*)$/
