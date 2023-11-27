@@ -1,0 +1,5 @@
+# ublacklist Anifake
+# https://github.com/Evurne/ublacklist-anifake
+
+# main
+(?!https?://gogoanime3\.net/)(https?://(ww.+\.)?gogoanime[a-zA-Z1-99]?\.[a-zA-Z]+.+)
