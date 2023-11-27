@@ -1,3 +1,9 @@
-# Prevents you from entering those sites
+# Prevents you from entering those sites with uBlock Origin
+# using match expressions...
 
-/^https?:\/\/(?!gogoanime3\.net)((ww.+\.)?gogoanime[a-zA-Z1-99]?\.[a-zA-Z]+.+)$/^$document
+# Blocklist
+gogoanime*.*^$document
+
+
+# Whitelist
+@@gogoanime3.net/*
